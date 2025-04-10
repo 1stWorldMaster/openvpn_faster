@@ -1,0 +1,1 @@
+Thanks for the https://github.com/haugene/vpn-configs-contrib for the config file 
